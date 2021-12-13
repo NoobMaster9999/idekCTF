@@ -1,6 +1,6 @@
 # Tutorial - Rotting Fruits
 
-This was the easist challenge in the Crypto category, if you take a look at the description you can see it is written this might help, when you click on the link it takes you to wikipedia page with a so called "caeser cipher".
+This was the easiest challenge in the Crypto category, if you take a look at the description you can see it is written this might help, when you click on the link it takes you to wikipedia page with a so called "caeser cipher".
 ![ceaser_cipher_wiki](./ceaser_cipher.jpg)
 
 We google caeser cipher decoder we get -
